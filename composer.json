@@ -1,0 +1,16 @@
+{
+    "name": "arvyd/03p",
+    "description": "Nice Shop",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Rubu\\Parduotuve\\": "app/",
+            "Rubu\\Parduotuve\\Controllers\\": "app/controllers"
+        }
+    },
+    "authors": [{
+        "name": "A-Kija",
+        "email": "arvydas.kijakauskas@gmail.com"
+    }],
+    "require": {}
+}
